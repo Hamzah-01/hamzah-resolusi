@@ -2,3 +2,5 @@ hamzah RESOLUSI
 - Konsisten 
 - Harus dapat memahami materi 
 - Membuat Apps
+- Membuat Aplikasi sederhana
+- Dapat berkolaborasi dengan baik
